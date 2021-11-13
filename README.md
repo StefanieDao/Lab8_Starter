@@ -1,6 +1,6 @@
 # Lab 8
 
-Dorothy Chou A15771271, Stephanie Dao
+Dorothy Chou, Stefanie Dao (A15974899)
 
 ## 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 
